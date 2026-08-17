@@ -1,8 +1,7 @@
 # Hi there, I'm Smita Agrawal 👋
 
 ### Senior Data Scientist | Lead AI & ML Systems Engineer | Technical Mentor
-📍 **Auckland, New Zealand**  
-🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smita-agrawal-25110222/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:smita.agrawal777@gmail.com)
+📍 **Auckland, New Zealand** 🔗 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smita-agrawal-25110222/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:smita.agrawal777@gmail.com)
 
 ---
 
@@ -25,7 +24,6 @@ Time Series Forecasting        : Chronos, Temporal Fusion Transformers (TFT), Pr
 Data Engineering & Cloud       : Databricks, Azure DevOps (ADO), Snowflake, BigQuery, AWS, GCP, Git
 MLOps & Infrastructure         : Databricks Asset Bundles (DABs), IaC, CI/CD Pipelines, MLflow, Drift Detection
 
-
 ---
 
 ### 📊 Production Impact Highlights
@@ -39,9 +37,14 @@ MLOps & Infrastructure         : Databricks Asset Bundles (DABs), IaC, CI/CD Pip
 ### 📜 Verified Certifications & Continuous Learning
 
 #### **Generative AI, LLMs & Prompt Engineering**
-- **Generative AI Engineering and Fine-Tuning Transformers** — *IBM / Coursera* | [Verify Credential](https://coursera.org/verify/E7UX6ZF5CWRR)
-- **Generative AI Language Modeling with Transformers** — *IBM / Coursera* | [Verify Credential](https://coursera.org/verify/7RKEIPUTYQXS)
-- **Generative AI and LLMs: Architecture and Data Preparation** — *IBM / Coursera* | [Verify Credential](https://coursera.org/verify/Q3K4R6MNT733)
+- **Generative AI Engineering with LLMs Specialization (7-Course Suite)** — *IBM / Coursera* | [Verify Specialization](https://coursera.org/verify/specialization/MQ6LARSABVG1)
+  - 🔹 *Project: Generative AI Applications with RAG and LangChain* | [Verify Course](https://coursera.org/verify/GASE869SWNNR)
+  - 🔹 *Fundamentals of AI Agents Using RAG and LangChain* | [Verify Course](https://coursera.org/verify/H7FMNT51EZZ5)
+  - 🔹 *Generative AI Advanced Fine-Tuning for LLMs* | [Verify Course](https://coursera.org/verify/89PJGSWVKH9Q)
+  - 🔹 *Generative AI Engineering and Fine-Tuning Transformers* | [Verify Course](https://coursera.org/verify/E7UX6ZF5CWRR)
+  - 🔹 *Generative AI Language Modeling with Transformers* | [Verify Course](https://coursera.org/verify/7RKEIPUTYQXS)
+  - 🔹 *Gen AI Foundational Models for NLP & Language Understanding*
+  - 🔹 *Generative AI and LLMs: Architecture and Data Preparation* | [Verify Course](https://coursera.org/verify/Q3K4R6MNT733)
 - **Google AI Essentials Specialization (5-Course Suite)** — *Google / Coursera* | [Verify Specialization](https://coursera.org/verify/specialization/EE8F8XFOO77U)
   - 🔹 *Start Writing Prompts like a Pro* | [Verify Course](https://coursera.org/verify/WYRO4BUPLFC8)
   - 🔹 *Discover the Art of Prompting* | [Verify Course](https://coursera.org/verify/GA4AZAXKPATB)
